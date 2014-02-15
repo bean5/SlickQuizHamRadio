@@ -4,13 +4,13 @@
 
 var quizJSON = {
     "info": {
-        "name":    "Test Your Knowledge!!",
+        "name":    "Practice for the Technician Amateur Radio Exam!!",
         "main":    "<p>Think you're smart enough to be on Jeopardy? Find out with this super crazy knowledge quiz!</p>",
-        "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
-        "level1":  "Jeopardy Ready",
-        "level2":  "Jeopardy Contender",
-        "level3":  "Jeopardy Amateur",
-        "level4":  "Jeopardy Newb",
+        "results": "<h5>Learn More</h5><p>Questions for this website were taken from the freely available Technician exam pool at <a href=\"http://www.ncvec.org/page.php?id=349\">www.ncvec.org/</a></p>",
+        "level1":  "Test Ready",
+        "level2":  "Test Contender",
+        "level3":  "Test Amateur",
+        "level4":  "Ham Radio Newb",
         "level5":  "Stay in school, kid..." // no comma here
     },
     "questions": [
