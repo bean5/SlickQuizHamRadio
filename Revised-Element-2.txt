@@ -1,6 +1,6 @@
-SUBELEMENT T1 – FCC Rules, descriptions and definitions for the amateur radio service, operator and station license responsibilities - [6 Exam Questions - 6 Groups]
+//SUBELEMENT T1 – FCC Rules, descriptions and definitions for the amateur radio service, operator and station license responsibilities - [6 Exam Questions - 6 Groups]
 
-T1A - Amateur Radio services; purpose of the amateur service, amateur-satellite service, operator/primary station license grant, where FCC rules are codified, basis and purpose of FCC rules, meanings of basic terms used in FCC rules
+//T1A - Amateur Radio services; purpose of the amateur service, amateur-satellite service, operator/primary station license grant, where FCC rules are codified, basis and purpose of FCC rules, meanings of basic terms used in FCC rules
 
 T1A01 (D) [97.3(a)(4)]
 For whom is the Amateur Radio Service intended?
@@ -101,7 +101,7 @@ D. Message forwarding station
 ~~
 
 
-T1B - Authorized frequencies; frequency allocations, ITU regions, emission type, restricted sub-bands, spectrum sharing, transmissions near band edges
+//T1B - Authorized frequencies; frequency allocations, ITU regions, emission type, restricted sub-bands, spectrum sharing, transmissions near band edges
 
 T1B01 (B) [97.3(a)(28)]
 What is the ITU?
@@ -203,7 +203,7 @@ D. CW and SSB
 ~~
 
 
-T1C - Operator classes and station call signs; operator classes, sequential, special event, and vanity call sign systems, international communications, reciprocal operation, station license and licensee, places where the amateur service is regulated by the FCC, name and address on ULS, license term, renewal, grace period
+//T1C - Operator classes and station call signs; operator classes, sequential, special event, and vanity call sign systems, international communications, reciprocal operation, station license and licensee, places where the amateur service is regulated by the FCC, name and address on ULS, license term, renewal, grace period
 
 T1C01 (C) [97.3(a)(11)(iii)]
 Which type of call sign has a single letter in both the prefix and suffix?
@@ -304,7 +304,7 @@ D. Yes, for up to two years
 ~~
 
 
-T1D - Authorized and prohibited transmissions
+//T1D - Authorized and prohibited transmissions
 
 T1D01 (A) [97.111(a)(1)]
 With which countries are FCC-licensed amateur stations prohibited from exchanging communications?
@@ -406,7 +406,7 @@ D. Communications on a regular basis that could reasonably be furnished alternat
 ~~
 
 
-T1E - Control operator and control types; control operator required, eligibility, designation of control operator, privileges and duties, control point, local, automatic and remote control, location of control operator 
+//T1E - Control operator and control types; control operator required, eligibility, designation of control operator, privileges and duties, control point, local, automatic and remote control, location of control operator 
 
 T1E01 (A) [97.7(a)]
 When must an amateur station have a control operator?
@@ -509,7 +509,7 @@ D. The station licensee
 ~~
 
 
-T1F - Station identification and operation standards; special operations for repeaters and auxiliary stations, third party communications, club stations, station security, FCC inspection
+//T1F - Station identification and operation standards; special operations for repeaters and auxiliary stations, third party communications, club stations, station security, FCC inspection
 
 T1F01 (A)
 What type of identification is being used when identifying a station on the air as “Race Headquarters”?
@@ -627,9 +627,9 @@ D. 10 days before the first transmission
 
 
 
-SUBELEMENT T2 - Operating Procedures [3 Exam Questions - 3 Groups]
+//SUBELEMENT T2 - Operating Procedures [3 Exam Questions - 3 Groups]
 
-T2A - Station operation; choosing an operating frequency, calling another station, test transmissions, use of minimum power, frequency use, band plans
+//T2A - Station operation; choosing an operating frequency, calling another station, test transmissions, use of minimum power, frequency use, band plans
 
 T2A01 (B)
 What is the most common repeater frequency offset in the 2 meter band?
@@ -934,9 +934,9 @@ D. The check is a box on the message form that tells you the message was receive
 ~~
 
 
-SUBELEMENT T3 – Radio wave characteristics, radio and electromagnetic properties, propagation modes – [3 Exam Questions - 3 Groups]
+//SUBELEMENT T3 – Radio wave characteristics, radio and electromagnetic properties, propagation modes – [3 Exam Questions - 3 Groups]
 
-T3A - Radio wave characteristics; how a radio signal travels; distinctions of HF, VHF and UHF; fading, multipath; wavelength vs. penetration; antenna orientation
+//T3A - Radio wave characteristics; how a radio signal travels; distinctions of HF, VHF and UHF; fading, multipath; wavelength vs. penetration; antenna orientation
 
 T3A01 (D)
 What should you do if another operator reports that your station’s 2 meter signals were strong just a moment ago, but now they are weak or distorted?
@@ -1039,7 +1039,7 @@ D. The magnetosphere
 ~~
 
 
-T3B - Radio and electromagnetic wave properties; the electromagnetic spectrum, wavelength vs. frequency, velocity of electromagnetic waves
+//T3B - Radio and electromagnetic wave properties; the electromagnetic spectrum, wavelength vs. frequency, velocity of electromagnetic waves
 
 T3B01 (C)
 What is the name for the distance a radio wave travels during one complete cycle?
@@ -1141,7 +1141,7 @@ D. 186,000 miles per hour
 ~~
 
 
-T3C - Propagation modes; line of sight, sporadic E, meteor, aurora scatter, tropospheric ducting, F layer skip, radio horizon
+//T3C - Propagation modes; line of sight, sporadic E, meteor, aurora scatter, tropospheric ducting, F layer skip, radio horizon
 
 T3C01 (C)
 Why are "direct" (not via a repeater) UHF signals rarely heard from stations outside your local coverage area?
@@ -1244,7 +1244,7 @@ D. Radio waves are blocked by dust particles
 ~~
 
 
-SUBELEMENT T4 - Amateur radio practices and station set up – [2 Exam Questions - 2 Groups]
+//SUBELEMENT T4 - Amateur radio practices and station set up – [2 Exam Questions - 2 Groups]
 
 T4A – Station setup; microphone, speaker, headphones, filters, power source, connecting a computer, RF grounding
 
@@ -1349,7 +1349,7 @@ D. Through the transceiver’s mounting bracket
 ~~
 
 
-T4B - Operating controls; tuning, use of filters, squelch, AGC, repeater offset, memory channels
+//T4B - Operating controls; tuning, use of filters, squelch, AGC, repeater offset, memory channels
 
 T4B01 (B)
 What may happen if a transmitter is operated with the microphone gain set too high?
@@ -1452,9 +1452,9 @@ D. The maximum frequency deviation permitted on the repeater’s input signal
 ~~
 
 
-SUBELEMENT T5 – Electrical principles, math for electronics, electronic principles, Ohm’s Law – [4 Exam Questions - 4 Groups]
+//SUBELEMENT T5 – Electrical principles, math for electronics, electronic principles, Ohm’s Law – [4 Exam Questions - 4 Groups]
 
-T5A - Electrical principles; current and voltage, conductors and insulators, alternating and direct current
+//T5A - Electrical principles; current and voltage, conductors and insulators, alternating and direct current
 
 T5A01 (D)
 Electrical current is measured in which of the following units?
@@ -1555,7 +1555,7 @@ D. The ohm
 
 
 
-T5B - Math for electronics; decibels, electrical units and the metric system
+//T5B - Math for electronics; decibels, electrical units and the metric system
 
 T5B01 (C)
 How many milliamperes is 1.5 amperes?
@@ -1658,7 +1658,7 @@ D. 28 dB
 
 
 
-T5C - Electronic principles; capacitance, inductance, current flow in circuits, alternating current, definition of RF, power calculations
+//T5C - Electronic principles; capacitance, inductance, current flow in circuits, alternating current, definition of RF, power calculations
 
 T5C01 (D)
 What is the ability to store energy in an electric field called?
@@ -1872,9 +1872,9 @@ D. 20 volts
 ~~
 
 
-SUBELEMENT T6 – Electrical components, semiconductors, circuit diagrams, component functions – [4 Exam Questions - 4 Groups]
+//SUBELEMENT T6 – Electrical components, semiconductors, circuit diagrams, component functions – [4 Exam Questions - 4 Groups]
 
-T6A - Electrical components; fixed and variable resistors, capacitors, and inductors; fuses, switches, batteries
+//T6A - Electrical components; fixed and variable resistors, capacitors, and inductors; fuses, switches, batteries
 
 T6A01 (B)
 What electrical component is used to oppose the flow of current in a DC circuit?
@@ -2087,7 +2087,7 @@ D. On resistance
 ~~
 
 
-T6C - Circuit diagrams; schematic symbols
+//T6C - Circuit diagrams; schematic symbols
 
 T6C01 (C)
 What is the name for standardized representations of components in an electrical wiring diagram?
@@ -2207,7 +2207,7 @@ C. The way components are interconnected
 D. All of these choices are correct
 
 
-T6D - Component functions
+//T6D - Component functions
 
 T6D01 (B)
 Which of the following devices or circuits changes an alternating current into a varying direct current signal?
@@ -2310,9 +2310,9 @@ D. Connect data signals from a TNC to a computer
 ~~
 
 
-SUBELEMENT T7 – Station equipment; common transmitter and receiver problems, antenna measurements and troubleshooting, basic repair and testing – [4 Exam Questions - 4 Groups]
+//SUBELEMENT T7 – Station equipment; common transmitter and receiver problems, antenna measurements and troubleshooting, basic repair and testing – [4 Exam Questions - 4 Groups]
 
-T7A - Station radios; receivers, transmitters, transceivers
+//T7A - Station radios; receivers, transmitters, transceivers
 
 T7A01 (C)
 What is the function of a product detector?
@@ -2748,7 +2748,7 @@ D. Ensure that the circuit is operating at the correct frequency
 ~~
 
 
-SUBELEMENT T8 – Modulation modes; amateur satellite operation, operating activities, non-voice communications – [4 Exam Questions - 4 Groups]
+//SUBELEMENT T8 – Modulation modes; amateur satellite operation, operating activities, non-voice communications – [4 Exam Questions - 4 Groups]
 
 T8A – Modulation modes; bandwidth of various signals
 
@@ -2853,7 +2853,7 @@ D. 15 kHz
 ~~
 
 
-T8B - Amateur satellite operation; Doppler shift, basic orbits, operating protocols
+//T8B - Amateur satellite operation; Doppler shift, basic orbits, operating protocols
 
 T8B01 (D)
 Who may be the control operator of a station communicating through an amateur satellite or space station?
@@ -3158,7 +3158,7 @@ D. A "triple width" bit used to signal the end of a character
 ~~ 
 
 
-SUBELEMENT T9 – Antennas, feedlines - [2 Exam Questions - 2 Groups]
+//SUBELEMENT T9 – Antennas, feedlines - [2 Exam Questions - 2 Groups]
 
 T9A – Antennas; vertical and horizontal, concept of gain, common portable and mobile antennas, relationships between antenna length and frequency
 
@@ -3263,7 +3263,7 @@ D. The increase in impedance on receive or transmit compared to a reference ante
 ~~
 
 
-T9B - Feedlines; types, losses vs. frequency, SWR concepts, matching weather protection, connectors
+//T9B - Feedlines; types, losses vs. frequency, SWR concepts, matching weather protection, connectors
 
 *T9B01 (B)
 Why is it important to have a low SWR in an antenna system that uses coaxial cable feedline?
@@ -3366,7 +3366,7 @@ D. 75-ohm flexible coax
 ~~
 
 
-SUBELEMENT T0 – AC power circuits, antenna installation, RF hazards – [3 Exam Questions - 3 Groups]
+//SUBELEMENT T0 – AC power circuits, antenna installation, RF hazards – [3 Exam Questions - 3 Groups]
 
 T0A – AC power circuits; hazardous voltages, fuses and circuit breakers, grounding, lightning protection, battery safety, electrical code compliance
 
@@ -3591,7 +3591,7 @@ D. Underwriters Laboratories' recommended practices
 ~~
 
 
-T0C - RF hazards; radiation exposure, proximity to antennas, recognized safe power levels, exposure to others
+//T0C - RF hazards; radiation exposure, proximity to antennas, recognized safe power levels, exposure to others
 
 T0C01 (D)
 What type of radiation are VHF and UHF radio signals?

@@ -1,0 +1,5 @@
+SUBELEMENT T
+//$1
+
+(T\d[A-Z] - )
+//$1
