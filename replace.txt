@@ -1,0 +1,31 @@
+SUBELEMENT T
+//$1
+
+(T\d[A-Z] - )
+//$1
+
+"
+\\"
+
+
+skinner:	(T\d[A-Z]\d{2}) .A. ?(.*)\r(.*)\r(\D)\. (.*)\r(\D)\. (.*)\r(\D)\. (.*)\r(\D)\. (.*)\r~~
+actual:		(T\d[A-Z]\d{2}) .A. ?(.*)\n(.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n~~
+replace:	{\n\t"q" : "$3",\n\t"a": [\n\t\t{"option": "$5",\t"correct": true},\n\t\t{"option": "$7",\t"correct": false},\n\t\t{"option": "$9",\t"correct": false},\n\t\t{"option": "$11",\t"correct": false}\n\t],\n\t"correct": "The answer was: \\"$5\\". (See also $2)",\n\t"incorrect": "Incorrect. The answer was: \\"$5\\". (See also $2)"\n},
+
+
+actual:		(T\d[A-Z]\d{2}) .B. ?(.*)\n(.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n~~
+replace:	{\n\t"q" : "$3",\n\t"a": [\n\t\t{"option": "$5",\t"correct": false},\n\t\t{"option": "$7",\t"correct": true},\n\t\t{"option": "$9",\t"correct": false},\n\t\t{"option": "$11",\t"correct": false}\n\t],\n\t"correct": "The answer was: \\"$7\\". (See also $2)",\n\t"incorrect": "Incorrect. The answer was: \\"$7\\". (See also $2)"\n},
+
+
+actual:		(T\d[A-Z]\d{2}) .C. ?(.*)\n(.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n~~
+replace:	{\n\t"q" : "$3",\n\t"a": [\n\t\t{"option": "$5",\t"correct": false},\n\t\t{"option": "$7",\t"correct": false},\n\t\t{"option": "$9",\t"correct": true},\n\t\t{"option": "$11",\t"correct": false}\n\t],\n\t"correct": "The answer was: \\"$9\\". (See also $2)",\n\t"incorrect": "Incorrect. The answer was: \\"$9\\". (See also $2)"\n},
+
+
+actual:		(T\d[A-Z]\d{2}) .D. ?(.*)\n(.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n(\D)\. (.*)\n~~
+replace:	{\n\t"q" : "$3",\n\t"a": [\n\t\t{"option": "$5",\t"correct": false},\n\t\t{"option": "$7",\t"correct": false},\n\t\t{"option": "$9",\t"correct": false},\n\t\t{"option": "$11",\t"correct": true}\n\t],\n\t"correct": "The answer was: \\"$11\\". (See also $2)",\n\t"incorrect": "Incorrect. The answer was: \\"$11\\". (See also $2)"\n},
+
+\(See also \) 
+\(See also 
+
+ \(See also \)
+\\nothing
